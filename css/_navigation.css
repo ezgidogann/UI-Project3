@@ -1,0 +1,14 @@
+nav ul li a {
+    color: var(--text);
+    font-size: 2rem;
+    transition: var(--transition);
+    list-style-type: none;
+    text-decoration: none;
+}
+nav .row a{
+    text-decoration: none;
+    list-style-type: none;
+}
+nav ul li:hover a {
+    color: var(--primary-hover);
+}

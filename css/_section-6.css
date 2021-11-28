@@ -1,0 +1,27 @@
+@import "./_variable.css";
+
+
+.section-6 {
+    margin-top:60px;
+}
+
+.section-6 .text{
+    justify-content: center;
+    text-align: center;
+}
+
+.section-6 .text h3{
+    font-size: 25px;
+    margin-top: 15px;
+    color: rgb(0, 0, 0 , .6) ;
+}
+.section-6 .text h2{
+    font-size: 45px;
+    color: var(--primary-blue);
+    margin-top: 5px;
+}
+
+.section-6 .text p{
+    margin-top: 5px;
+    font-size: 20px;
+}

@@ -1,0 +1,64 @@
+@import "./_variable.css";
+
+
+.section3-top{
+    margin-top: 60px;
+}
+
+.section3-top h3{
+    font-size: 25px;
+    margin-top: 15px;
+    color: rgb(0, 0, 0 , .6) ;
+}
+
+.section3-top h2{
+    font-size: 45px;
+    color: var(--primary-blue);
+}
+
+.section3-top  p{
+    margin-top: 5px;
+    font-size: 20px;
+}
+
+
+.icon i{
+    color: var(  --primary);
+    font-size: 50px;
+}
+
+.section-3 .item {
+    background-color: #ECEBFC;
+    transform: 0.7s; 
+    border-radius:10px; 
+}
+
+.section-3 .row{
+    margin-top: 25px;
+} 
+
+.section-3 .item h3{
+    font-size: 25px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    transform: 0.5s;
+    color: var(--primary-blue);
+}
+.section-3 .item p{
+    font-size: 15px;
+    margin-bottom: 25px;
+}
+
+.section-3 .item:hover{
+    background-color: var(--primary);
+    color: #fff;
+    
+}
+
+.section-3 .item:hover i {
+    color: #fff;
+}
+
+.section-3 .item:hover h3 {
+    color: #fff;
+} 
